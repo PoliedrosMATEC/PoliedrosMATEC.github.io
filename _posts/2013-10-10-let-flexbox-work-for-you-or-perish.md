@@ -4,11 +4,10 @@ layout: post
 title: Youser plaio
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: HAaaaaaaaa¿aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme2_ylcxxz.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme2_ylcxxz.jpg
-category: css
+image: https://res.cloudinary.com/dojxtw8if/image/upload/v1742875443/Captura_de_pantalla_2024-11-24_184730_xjzqow.png
+optimized_image: https://res.cloudinary.com/dojxtw8if/image/upload/v1742875443/Captura_de_pantalla_2024-11-24_184730_xjzqow.png
 tags:
-  - css
+  - Prueba 
   - frontend
 author: mranderson
 ---
