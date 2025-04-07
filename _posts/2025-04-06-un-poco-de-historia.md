@@ -21,7 +21,7 @@ Desde tiempos prehistóricos, la humanidad ha estado rodeada de formas geométri
 Incluso antes de las primeras civilizaciones, ya existía fascinación por los sólidos tridimensionales. Un ejemplo notable son las piedras talladas con forma de poliedros encontradas en Escocia, que datan al periodo neolítico (hace al rededor de 12000 años).  
 
 
-![Texto alternativo](https://res.cloudinary.com/dojxtw8if/image/upload/v1743980369/neolithic_k0metm.jpg "Poliedros Neolíticos")
+![Poliedros Neolíticos](https://res.cloudinary.com/dojxtw8if/image/upload/v1743980369/neolithic_k0metm.jpg "Poliedros Neolíticos")
 *Fuente: Extremiana (2001)*
 
 ## Primeros avances geométricos en Babilonia e India
